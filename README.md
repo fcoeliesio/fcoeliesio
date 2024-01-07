@@ -1,3 +1,4 @@
+#### Formação:
 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela Universidade Federal do Cariri - UFCA <br>
 🎓 Licenciado em Química pela Universidade Estadual Vale do Acaraú - UVA <br>
 
