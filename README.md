@@ -1,7 +1,3 @@
-#### Formação:
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na Universidade Federal do Cariri - UFCA <br>
-🎓 Licenciado em Química pela Universidade Estadual Vale do Acaraú - UVA <br>
-
 #### Ferramentas e Tecnologias:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
