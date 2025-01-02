@@ -8,7 +8,12 @@
   </a>
 </p>
 
-### 
+## 🎓 Formação Acadêmica
+- Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Federal do Cariri - UFCA
+- Licenciado em Química pela Universidade Estadual Vale do Acaraú - UVA
+
+## 🔗 Links 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcoeliesio/)
+[![GMAIL](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fcoeliesio@gmail.com)
 
 
