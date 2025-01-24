@@ -9,7 +9,7 @@
 </p>
 
 ## 🎓 Formação Acadêmica
-- Graduando em Análise e Desenvolvimento de Sistemas pela Universidade Federal do Cariri - UFCA
+- Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade Federal do Cariri - UFCA
 - Licenciado em Química pela Universidade Estadual Vale do Acaraú - UVA
 
 ## 🔗 Links 
